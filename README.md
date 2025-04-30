@@ -23,7 +23,7 @@ I'm committed to continuous learning and enjoy tackling complex, real-world chal
 
 ## 🌍 Connect With Me
 
-- [LinkedIn](www.linkedin.com/in/mahmoud-abozahra-dev)
+- [LinkedIn](https://www.linkedin.com/in/mahmoud-abozahra-dev/)
 - 📧 Email:mahmoudabozahra1998@gmail.com 
 
 ---
