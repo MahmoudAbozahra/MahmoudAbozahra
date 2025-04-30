@@ -30,34 +30,34 @@ I'm committed to continuous learning and enjoy tackling complex, real-world chal
 
 ## 🛠 Tech Stack
 
-Languages & Frameworks:  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
+## Languages & Frameworks:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
-Backend:
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-red?style=flat&logo=django)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+## Backend:
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![Django REST Framework](https://img.shields.io/badge/-DRF-092E20?logo=django&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
-Frontend:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
+## Frontend:
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
-Tools:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+## Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
-Concepts:
-![OOP](https://img.shields.io/badge/-OOP-4B8BBE?logo=java&logoColor=white&style=flat)  
-![DSA](https://img.shields.io/badge/-DSA-0F4B5E?logo=python&logoColor=white&style=flat)  
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-47A4F5?logo=api&logoColor=white&style=flat)  
-![MVT](https://img.shields.io/badge/-MVT-5C6BC0?logo=django&logoColor=white&style=flat)
+## Concepts:
+![OOP](https://img.shields.io/badge/-OOP-8A2BE2?logo=java&logoColor=white&style=flat)
+![DSA](https://img.shields.io/badge/-DSA-FF6347?logo=python&logoColor=white&style=flat)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-42A5F5?logo=swagger&logoColor=white&style=flat)
+![MVT](https://img.shields.io/badge/-MVT-42A5F5?logo=django&logoColor=white&style=flat)
 
 ---
 
