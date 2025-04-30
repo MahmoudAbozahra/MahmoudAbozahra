@@ -1,61 +1,78 @@
 # Hi, I'm Mahmoud 👋
 
-### 🚀 Backend Engineer | Django & DRF Enthusiast | Problem Solver
+### 🚀 Backend Engineer | Django & DRF Enthusiast 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mahmoud&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=MahmoudAbozahra&label=Profile%20views&color=0e75b6&style=flat)
 
-I'm a Backend Engineer with a strong foundation in software engineering principles, particularly in backend development and database design.  
-I have hands-on experience in building web applications using **Django** and **Django REST Framework**.
+I’m a Junior Backend Developer with a solid foundation in Python, Django, and REST APIs. I specialize in building scalable and efficient backend systems that seamlessly integrate with frontend applications. With hands-on experience in both SQL and NoSQL databases, I’m passionate about optimizing performance and writing maintainable code.
 
-My passion lies in solving challenging problems and designing scalable, efficient systems.  
-I'm skilled in optimizing backend performance and integrating modern technologies to enhance application functionality.
-
-🎯 My goal is to craft **reliable**, **maintainable**, and **robust** solutions that support long-term project success.
+I'm committed to continuous learning and enjoy tackling complex, real-world challenges. Whether working independently or as part of a team, I aim to create reliable, robust, and future-proof solutions that contribute to the success of long-term projects.
 
 ---
 
 ## 🔍 About Me
 
-- 🔭 Currently working on: **Building scalable and optimized backend solutions** using Django & DRF  
-- 👯 Looking to collaborate on: **API development**, **backend optimization**, and **open-source projects**  
-- 🌱 Currently learning: **Design Patterns** and **Test-Driven Development (TDD)**  
-- 💬 Active in the tech community, helping others start their programming journey
+🔭 Currently working on: Building scalable and optimized backend solutions using Django & DRF
 
+👯 Looking to collaborate on: API development, backend optimization, and open-source projects
+
+🌱 Currently learning: Design Patterns and Test-Driven Development (TDD)
+
+💬 Active in the tech community, mentoring others and helping newcomers start their programming journey
 ---
 
 ## 🌍 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
-- 📧 Email: youremail@example.com
+- [LinkedIn](www.linkedin.com/in/mahmoud-abozahra-dev)
+- 📧 Email:mahmoudabozahra1998@gmail.com 
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages & Frameworks:**  
+Languages & Frameworks:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+
+Backend:
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)  
-![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-red?style=flat&logo=django)
+![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-red?style=flat&logo=django)  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 
-**Databases:**  
-PostgreSQL • SQLite • Redis
+Frontend:
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
 
-**Tools:**  
-Celery • Docker • Git • GitHub • GitFlow • Postman
+Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
-**Others:**  
-Bootstrap • CSS3 • JavaScript • C++
+Concepts:
+![OOP](https://img.shields.io/badge/-OOP-4B8BBE?logo=java&logoColor=white&style=flat)  
+![DSA](https://img.shields.io/badge/-DSA-0F4B5E?logo=python&logoColor=white&style=flat)  
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-47A4F5?logo=api&logoColor=white&style=flat)  
+![MVT](https://img.shields.io/badge/-MVT-5C6BC0?logo=django&logoColor=white&style=flat)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud&layout=compact&theme=radical)
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbozahra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbozahra&layout=compact&theme=radical)
+
 
 ---
 
 ## 📌 Pinned Projects
 
-<!-- Add your top projects like this -->
-[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=Mahmoud&repo=library-management&theme=radical)](https://github.com/Mahmoud/library-management)
+[![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAbozahra&repo=Library-Management-System&theme=radical)](https://github.com/MahmoudAbozahra/Library-Management-System)
+
+
+[![E-commerce API](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAbozahra&repo=E-commerce-API&theme=radical)](https://github.com/MahmoudAbozahra/E-commerce-API)
+
