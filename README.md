@@ -61,14 +61,6 @@ I'm committed to continuous learning and enjoy tackling complex, real-world chal
 
 ---
 
-## 📊 GitHub Stats
-
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbozahra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbozahra&layout=compact&theme=radical)
-
-
----
-
 ## 📌 Pinned Projects
 
 [![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=MahmoudAbozahra&repo=Library-Management-System&theme=radical)](https://github.com/MahmoudAbozahra/Library-Management-System)
